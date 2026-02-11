@@ -4,98 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3457d8a-8dac-4e07-9318-7b9b593c1aaf" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/git文件" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/captcha.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/captcha.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/attachments/1be3c72e85d5da7f.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/attachments/1d37781608feac1f.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/attachments/222e33c696c38052.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/attachments/2f6d97a16a225cae.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/attachments/309cd605c83a6800.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/attachments/4182977a34c5d912.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/attachments/64319d9a661ff8ef.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/attachments/6e7445d01aaecb8b.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/attachments/7bd546ac20f27537.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/attachments/92c795f6fa4f2c62.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/attachments/b9d456bcac68a815.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/attachments/dd352b9e6d0134af.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/attachments/e188f8d8c33ef795.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/attachments/f2362f919c680e39.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/attachments/f24fe1d169deabd8.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/attachments/fce34f8ab8f04597.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/categories.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/1c5aede369a9fa6c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/29f323911e1df6d2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/3a51953a1db73b69.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/3c5d6039675a634d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/4df6fb5825965b6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/6bd3fabbeeffeae0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/6ffe586a3fd94dcd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/7815e62bb3093644.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/7af2ed43a4ec479f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/81e52951a9ebdebb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/8977f2b0297a6d2d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/8d9f6dee25aee8a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/9393eb6073845e04.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/9f75f641ef541e85.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/a2c1eed8346971bf.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/a5890a57fc5c2ed6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/ab39d75be9e0c512.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/b3deacb4dcb3c5b8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/b3fd221ac56f331c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/cf9324e7e01c1427.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/d72e08fccdd1e42f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/da2e463e1feffe28.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/dc04564bea7606b8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/e5e93864932152a6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/ecce4d1e59c8f50a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/ed11869ec42ef814.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/f9912a1005d080e6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/test-cases/fd6ec2e34d342261.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/plugin/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/plugin/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/plugin/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/plugin/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/widgets/summary.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_allure.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_allure.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_api/test_phone.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_api/test_phone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_smoke/test_grade.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_smoke/test_grade.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_smoke/test_phone.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_smoke/test_phone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_ui/test_exceltwo.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_ui/test_exceltwo.py" afterDir="false" />
-    </list>
+    <list default="true" id="f3457d8a-8dac-4e07-9318-7b9b593c1aaf" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,7 +93,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "正在变基 main",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/Administrator/PycharmProjects/PythonProject",
     "settings.editor.selected.configurable": "vcs.Git",

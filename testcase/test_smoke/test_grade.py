@@ -43,7 +43,8 @@ class TestGrade:
         url = "http://idrc.iflight-rc.com/api/smsgeet/checksms"
         # 替换原废弃代码，新版pytest兼容写法：恢复标准输入，让input正常工作
         sys.stdin = open('/dev/tty') if sys.platform != 'win32' else sys.stdin
-        code=input("请输入验证码：")
+        # code=input("请输入验证码：")
+        code="888888"
         params_data = {
             "phone":"18819781752",
             "code":code

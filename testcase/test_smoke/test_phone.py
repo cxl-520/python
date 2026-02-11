@@ -4,7 +4,8 @@ import requests
 import json
 import pytest
 class Test_phone():
-    phone = input("请输入11位的手机号码")
+    # phone = input("请输入11位的手机号码")
+    phone="18819781752"
     post_url="http://idrc.iflight-rc.com/api/smsgeet/sendsms"
     assert phone is not None and len(phone) == 11
     print("输出的11位手机号码为：", phone)
@@ -31,7 +32,8 @@ class Test_phone():
         url = "http://idrc.iflight-rc.com/api/smsgeet/checksms"
         # 替换原废弃代码，新版pytest兼容写法：恢复标准输入，让input正常工作
         sys.stdin = open('/dev/tty') if sys.platform != 'win32' else sys.stdin
-        code = input("请输入验证码：")
+        # code = input("请输入验证码：")
+        code="888888"
         params_data = {
             "phone": self.phone,
             "code": code

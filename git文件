@@ -1,0 +1,14 @@
+# 1. 确认分支
+git branch
+
+# 2. 加文件
+git add .
+
+# 3. 提交
+git commit -m "修改了run_allure.py，解决脚本卡住问题"
+
+# 4. 拉取远程最新
+git pull --rebase origin main
+
+# 5. 推送
+git push origin main

@@ -5,46 +5,96 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3457d8a-8dac-4e07-9318-7b9b593c1aaf" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/setting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/test_data1.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/test_data2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mcp_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run_allure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run_pytest_mcp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_api/test_phone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_api/test_player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_api/test_posts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_smoke/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_smoke/test_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_smoke/test_grade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_smoke/test_idrcspi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_smoke/test_idrcspi_two.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_smoke/test_other.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_smoke/test_phone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_smoke/test_vote_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_ui/test_bro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_ui/test_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_ui/test_exceltwo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_ui/test_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_yaml/test_yaml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git文件" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/captcha.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/captcha.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/attachments/1be3c72e85d5da7f.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/attachments/1d37781608feac1f.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/attachments/222e33c696c38052.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/attachments/2f6d97a16a225cae.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/attachments/309cd605c83a6800.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/attachments/4182977a34c5d912.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/attachments/64319d9a661ff8ef.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/attachments/6e7445d01aaecb8b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/attachments/7bd546ac20f27537.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/attachments/92c795f6fa4f2c62.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/attachments/b9d456bcac68a815.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/attachments/dd352b9e6d0134af.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/attachments/e188f8d8c33ef795.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/attachments/f2362f919c680e39.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/attachments/f24fe1d169deabd8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/attachments/fce34f8ab8f04597.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/behaviors.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/categories.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/packages.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/suites.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/1c5aede369a9fa6c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/29f323911e1df6d2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/3a51953a1db73b69.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/3c5d6039675a634d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/4df6fb5825965b6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/6bd3fabbeeffeae0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/6ffe586a3fd94dcd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/7815e62bb3093644.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/7af2ed43a4ec479f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/81e52951a9ebdebb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/8977f2b0297a6d2d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/8d9f6dee25aee8a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/9393eb6073845e04.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/9f75f641ef541e85.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/a2c1eed8346971bf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/a5890a57fc5c2ed6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/ab39d75be9e0c512.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/b3deacb4dcb3c5b8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/b3fd221ac56f331c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/cf9324e7e01c1427.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/d72e08fccdd1e42f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/da2e463e1feffe28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/dc04564bea7606b8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/e5e93864932152a6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/ecce4d1e59c8f50a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/ed11869ec42ef814.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/f9912a1005d080e6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/test-cases/fd6ec2e34d342261.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/data/timeline.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/export/influxDbData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/export/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/export/prometheusData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/plugin/behaviors/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/plugin/packages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/plugin/screen-diff/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/plugin/screen-diff/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/widgets/behaviors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/widgets/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/widgets/categories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/widgets/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/widgets/duration.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/widgets/environment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/widgets/executors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/widgets/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/widgets/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/widgets/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/widgets/severity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/widgets/status-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/widgets/suites.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/widgets/summary.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_allure.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_allure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/test_api/test_phone.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_api/test_phone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/test_smoke/test_grade.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_smoke/test_grade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/test_smoke/test_phone.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_smoke/test_phone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/test_ui/test_exceltwo.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_ui/test_exceltwo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +172,7 @@
     "Python 测试.testcase.test_api.test_posts.Test_api.test_上传图片接口 的 Python 测试.executor": "Run",
     "Python 测试.testcase.test_selenium.test_excel.Test_excel 的 Python 测试.executor": "Run",
     "Python 测试.testcase.test_selenium.test_excel.Test_excel.test_read_excel 的 Python 测试.executor": "Run",
+    "Python 测试.testcase.test_ui.test_excel.TestExcel 的 Python 测试.executor": "Run",
     "Python 测试.testcase.test_ui.test_excel.TestExcel.test_loginidrc 的 Python 测试.executor": "Run",
     "Python 测试.testcase.test_ui.test_excel.TestExcel.test_登陆后台存在验证码 的 Python 测试.executor": "Run",
     "Python.excel_util.executor": "Run",
@@ -133,11 +184,17 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "正在变基 main",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/Administrator/PycharmProjects/PythonProject",
     "settings.editor.selected.configurable": "vcs.Git",
     "to.speed.mode.migration.done": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -153,8 +210,8 @@
       <recent name="C:\Users\Administrator\PycharmProjects\PythonProject\testcase\test_smoke" />
     </key>
   </component>
-  <component name="RunManager" selected="Python 测试.testcase.test_ui.test_excel.TestExcel.test_登陆后台存在验证码 的 Python 测试">
-    <configuration name="excel_util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.run_allure">
+    <configuration name="run_allure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,7 +225,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excel_util.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_allure.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,7 +273,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="testcase.test_ui.test_excel 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="testcase.test_ui.test_excel.TestExcel 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -228,7 +285,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="RUN_TOOL" value="" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;testcase.test_ui.test_excel&quot;" />
+      <option name="_new_target" value="&quot;testcase.test_ui.test_excel.TestExcel&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -265,19 +322,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.excel_util" />
       <item itemvalue="Python.run_pytest_mcp" />
+      <item itemvalue="Python.run_allure" />
       <item itemvalue="Python 测试.testcase.test_ui.test_excel 的 Python 测试" />
+      <item itemvalue="Python 测试.testcase.test_ui.test_excel.TestExcel 的 Python 测试" />
       <item itemvalue="Python 测试.testcase.test_ui.test_excel.TestExcel.test_loginidrc 的 Python 测试" />
       <item itemvalue="Python 测试.testcase.test_ui.test_excel.TestExcel.test_登陆后台存在验证码 的 Python 测试" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run_allure" />
+        <item itemvalue="Python 测试.testcase.test_ui.test_excel.TestExcel 的 Python 测试" />
         <item itemvalue="Python 测试.testcase.test_ui.test_excel.TestExcel.test_登陆后台存在验证码 的 Python 测试" />
         <item itemvalue="Python 测试.testcase.test_ui.test_excel.TestExcel.test_loginidrc 的 Python 测试" />
         <item itemvalue="Python.run_pytest_mcp" />
-        <item itemvalue="Python.excel_util" />
-        <item itemvalue="Python 测试.testcase.test_ui.test_excel 的 Python 测试" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +354,20 @@
       <option name="presentableId" value="Default" />
       <updated>1770264267077</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: 初始化Python自动化测试项目&#10;init">
+      <option name="closed" value="true" />
+      <created>1770793625187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770793625187</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: 初始化Python自动化测试项目&#10;init" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 初始化Python自动化测试项目&#10;init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -322,18 +393,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/testcase/test_api/test_phone.py</url>
-          <line>23</line>
+          <line>24</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/testcase/test_ui/test_excel.py</url>
           <line>19</line>
           <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/testcase/test_ui/test_excel.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/testcase/test_ui/test_excel.py</url>

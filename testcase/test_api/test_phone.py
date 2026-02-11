@@ -9,7 +9,8 @@ import allure
 @allure.feature("Phone code")
 @allure.story("Send and verify flow")
 class TestPhone:
-    phone = None
+    # phone = None
+    phone="18819781752"
     post_url = "http://idrc.iflight-rc.com/api/smsgeet/sendsms"
     check_url = "http://idrc.iflight-rc.com/api/smsgeet/checksms"
 
@@ -18,7 +19,7 @@ class TestPhone:
             if sys.stdin is not sys.__stdin__:
                 sys.stdin = sys.__stdin__
 
-            self.phone = input("Enter 11-digit phone number: ")
+            # self.phone = input("Enter 11-digit phone number: ")
             try:
                 assert self.phone is not None and len(self.phone) == 11, "phone must be 11 digits"
                 assert self.phone.isdigit(), "phone must be numeric"
@@ -72,7 +73,8 @@ class TestPhone:
         with allure.step("Step 1: read code input"):
             if sys.stdin is not sys.__stdin__:
                 sys.stdin = sys.__stdin__
-            code = input("Enter received code: ")
+            # code = input("Enter received code: ")
+            code="187234"
             allure.attach(f"code: {code}", name="code", attachment_type=allure.attachment_type.TEXT)
 
         with allure.step("Step 2: build request params"):

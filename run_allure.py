@@ -20,6 +20,11 @@ def parse_args():
     parser.add_argument("targets", nargs="*", help="test targets: file or directory")
     parser.add_argument("-k", dest="keyword", help="keyword expression")
     parser.add_argument("--report-name", default=ALLURE_TITLE, help="Allure report name")
+    parser.add_argument(
+        "--open-report",
+        action="store_true",
+        help="open Allure report in browser (local use only)",
+    )
     return parser.parse_args()
 
 
@@ -58,7 +63,8 @@ if __name__ == "__main__":
 
     print("generating report...")
     os.system(f'allure generate "{RESULT_DIR}" -o "{REPORT_DIR}" --clean --report-name "{args.report_name}"')
-    os.system(f'allure open "{REPORT_DIR}"')
+    if args.open_report:
+        os.system(f'allure open "{REPORT_DIR}"')
 
     if exit_code != 0:
         raise SystemExit(exit_code)

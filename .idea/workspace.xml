@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3457d8a-8dac-4e07-9318-7b9b593c1aaf" name="更改" comment="" />
+    <list default="true" id="f3457d8a-8dac-4e07-9318-7b9b593c1aaf" name="更改" comment="feat: 初始化Python自动化测试项目&#10;init">
+      <change afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/captcha.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/captcha.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_allure.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_allure.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="368" />
+    <option name="cachedIndexableFilesCount" value="392" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -271,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770793625187</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: 初始化Python自动化测试项目&#10;init">
+      <option name="closed" value="true" />
+      <created>1770797997227</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770797997227</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

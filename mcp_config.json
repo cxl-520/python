@@ -1,0 +1,25 @@
+{
+  "servers": [
+    {
+      "name": "PyCharm-Pytest-MCP",
+      "type": "mcp",
+      "url": "http://localhost:29277",
+      "description": "PyCharm内置MCP，用于运行Pytest、操作测试文件、解析测试报告",
+      "timeout": 30,
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "enabled": true
+    },
+    {
+      "name": "Pytest-Runner-MCP",
+      "type": "mcp",
+      "url": "http://localhost:9000",
+      "description": "自定义Pytest运行MCP服务，专门处理测试用例执行/报告生成",
+      "timeout": 60,
+      "enabled": true
+    }
+  ],
+  "default_server": "PyCharm-Pytest-MCP",
+  "log_level": "INFO"
+}

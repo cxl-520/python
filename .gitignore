@@ -1,0 +1,25 @@
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# 虚拟环境（必加，不然会提交整个venv文件夹）
+.venv/
+venv/
+env/
+ENV/
+
+# PyCharm 配置文件
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# 测试报告/日志
+allure-results/
+allure-report/
+*.log
+pytest_cache/

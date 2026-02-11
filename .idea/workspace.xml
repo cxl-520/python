@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3457d8a-8dac-4e07-9318-7b9b593c1aaf" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/setting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/data.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_data1.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test_data2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excel_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcp_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_allure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_pytest_mcp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_api/test_phone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_api/test_player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_api/test_posts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_smoke/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_smoke/test_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_smoke/test_grade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_smoke/test_idrcspi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_smoke/test_idrcspi_two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_smoke/test_other.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_smoke/test_phone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_smoke/test_vote_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_ui/test_bro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_ui/test_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_ui/test_exceltwo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_ui/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_yaml/test_yaml.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="368" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;cxl-520&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/cxl-520/pytest-appnium-request-allure.git&quot;,
+    &quot;accountId&quot;: &quot;a7c29e6c-b44b-4aa2-bd05-7ccb3a6c4806&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="39EbdTUlX65NhOvFxDYo7ko0Xy6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python 测试.Python 测试 (conftest.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test_bro.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test_excel.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test_exceltwo.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test_grade.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test_idrcspi.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test_idrcspi_two.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test_login.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test_other.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test_phone.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test_player.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test_vote_api.py 内).executor": "Run",
+    "Python 测试.Python 测试 (test_yaml.py 内).executor": "Run",
+    "Python 测试.testcae.test_idrcspi_two.TestIdrcApi 的 Python 测试.executor": "Run",
+    "Python 测试.testcae.test_logging_demo.test_logging_demo 的 Python 测试.executor": "Run",
+    "Python 测试.testcae.test_logging_demo.test_logging_demo2 的 Python 测试.executor": "Run",
+    "Python 测试.testcae.test_selenium.test_bro.TestBro 的 Python 测试.executor": "Run",
+    "Python 测试.testcae.test_selenium.test_bro.TestBro.test_bro 的 Python 测试.executor": "Run",
+    "Python 测试.testcae.test_yaml.test_yaml.test_yaml 的 Python 测试.executor": "Run",
+    "Python 测试.testcase.test_api.test_player.Test_player.test_成绩排名 的 Python 测试.executor": "Run",
+    "Python 测试.testcase.test_api.test_player.Test_player.test_获取人气选手 的 Python 测试.executor": "Run",
+    "Python 测试.testcase.test_api.test_player.Test_player.test_获取参赛战队详情列表 的 Python 测试.executor": "Run",
+    "Python 测试.testcase.test_api.test_player.Test_player.test_获取赛程类别 的 Python 测试.executor": "Run",
+    "Python 测试.testcase.test_api.test_posts.Test_api.test_上传图片接口 的 Python 测试.executor": "Run",
+    "Python 测试.testcase.test_selenium.test_excel.Test_excel 的 Python 测试.executor": "Run",
+    "Python 测试.testcase.test_selenium.test_excel.Test_excel.test_read_excel 的 Python 测试.executor": "Run",
+    "Python 测试.testcase.test_ui.test_excel.TestExcel.test_loginidrc 的 Python 测试.executor": "Run",
+    "Python 测试.testcase.test_ui.test_excel.TestExcel.test_登陆后台存在验证码 的 Python 测试.executor": "Run",
+    "Python.excel_util.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.run_allure.executor": "Run",
+    "Python.run_pytest_mcp.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Administrator/PycharmProjects/PythonProject",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\PythonProject" />
+      <recent name="C:\Users\Administrator\PycharmProjects\PythonProject\testcae" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\PythonProject\testcase\test_ui" />
+      <recent name="C:\Users\Administrator\PycharmProjects\PythonProject" />
+      <recent name="C:\Users\Administrator\PycharmProjects\PythonProject\data" />
+      <recent name="C:\Users\Administrator\PycharmProjects\PythonProject\testcase" />
+      <recent name="C:\Users\Administrator\PycharmProjects\PythonProject\testcase\test_smoke" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python 测试.testcase.test_ui.test_excel.TestExcel.test_登陆后台存在验证码 的 Python 测试">
+    <configuration name="excel_util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excel_util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_pytest_mcp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_pytest_mcp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testcase.test_ui.test_excel 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testcase.test_ui.test_excel&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testcase.test_ui.test_excel 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testcase.test_ui.test_excel&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testcase.test_ui.test_excel.TestExcel.test_登陆后台存在验证码 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testcase.test_ui.test_excel.TestExcel.test_登陆后台存在验证码&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testcase.test_ui.test_excel.TestExcel.test_loginidrc 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testcase.test_ui.test_excel.TestExcel.test_loginidrc&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.excel_util" />
+      <item itemvalue="Python.run_pytest_mcp" />
+      <item itemvalue="Python 测试.testcase.test_ui.test_excel 的 Python 测试" />
+      <item itemvalue="Python 测试.testcase.test_ui.test_excel.TestExcel.test_loginidrc 的 Python 测试" />
+      <item itemvalue="Python 测试.testcase.test_ui.test_excel.TestExcel.test_登陆后台存在验证码 的 Python 测试" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python 测试.testcase.test_ui.test_excel.TestExcel.test_登陆后台存在验证码 的 Python 测试" />
+        <item itemvalue="Python 测试.testcase.test_ui.test_excel.TestExcel.test_loginidrc 的 Python 测试" />
+        <item itemvalue="Python.run_pytest_mcp" />
+        <item itemvalue="Python.excel_util" />
+        <item itemvalue="Python 测试.testcase.test_ui.test_excel 的 Python 测试" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-3944b0c99280-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="f3457d8a-8dac-4e07-9318-7b9b593c1aaf" name="更改" comment="" />
+      <created>1770264267077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770264267077</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/test_smoke/test_logging_demo.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/test_yaml/test_yaml.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/test_api/test_player.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/test_api/test_phone.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/test_ui/test_excel.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/test_ui/test_excel.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/test_ui/test_excel.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

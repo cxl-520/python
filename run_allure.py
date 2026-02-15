@@ -60,7 +60,7 @@ if __name__ == "__main__":
 
     print("generating report...")
     os.system(f'allure generate "{RESULT_DIR}" -o "{REPORT_DIR}" --clean --report-name "{args.report_name}"')
-    os.system(f'allure open "{REPORT_DIR}"')
+    # os.system(f'allure open "{REPORT_DIR}"')
 
     if exit_code != 0:
         raise SystemExit(exit_code)

@@ -1,0 +1,1 @@
+http://idrc.iflight-rc.com/api/smsgeet/sendsms

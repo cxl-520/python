@@ -36,6 +36,19 @@ def test_login1():
     yield driver    # 返回驱动给用例，暂停函数执行（等待用例全部完成）,跟return差不多，但是这个有后置操作
     # 后置清理操作：关闭浏览器（所有用例执行完后，自动执行）
     driver.quit()
+@pytest.fixture #每个用例都执行一遍浏览器打开跟关闭，
+# @pytest.fixture(scope='class')  # 类级作用域，每个用例共用一个浏览器打开跟关闭
+def test_login3():
+    driver = webdriver.Chrome()
+    logs.debug("打开浏览器")
+    logs.error("webdriver ready")
+    driver.get(ENV.url3)
+    driver.maximize_window()
+    driver.implicitly_wait(10)
+    print("浏览器已启动，驱动初始化完成")
+    yield driver    # 返回驱动给用例，暂停函数执行（等待用例全部完成）,跟return差不多，但是这个有后置操作
+    # 后置清理操作：关闭浏览器（所有用例执行完后，自动执行）
+    driver.quit()
 # 2. 核心钩子函数：pytest用例失败时，自动截图并附加到Allure报告
 @pytest.hookimpl(tryfirst=True, hookwrapper=True)
 def pytest_runtest_makereport(item, call):

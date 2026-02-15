@@ -1,0 +1,1 @@
+http://idrc.iflight-rc.com/api/grades/get_grades_list

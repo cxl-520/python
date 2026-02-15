@@ -1,0 +1,2 @@
+assert 500 == 200
+ +  where 500 = <Response [500]>.status_code

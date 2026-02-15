@@ -13,20 +13,19 @@ class TestPhone:
     phone="18819781752"
     post_url = "http://idrc.iflight-rc.com/api/smsgeet/sendsms"
     check_url = "http://idrc.iflight-rc.com/api/smsgeet/checksms"
-
-    def setup_class(self):
-        with allure.step("Step 0: read and validate phone number"):
-            if sys.stdin is not sys.__stdin__:
-                sys.stdin = sys.__stdin__
-
-            # self.phone = input("Enter 11-digit phone number: ")
-            try:
-                assert self.phone is not None and len(self.phone) == 11, "phone must be 11 digits"
-                assert self.phone.isdigit(), "phone must be numeric"
-                allure.attach(f"phone: {self.phone}", name="phone", attachment_type=allure.attachment_type.TEXT)
-                print("Phone:", self.phone)
-            except AssertionError as e:
-                pytest.fail(f"phone validation failed: {e}")
+    # def setup_class(self):
+    #     with allure.step("Step 0: read and validate phone number"):
+    #         if sys.stdin is not sys.__stdin__:
+    #             sys.stdin = sys.__stdin__
+    #
+    #         # self.phone = input("Enter 11-digit phone number: ")
+    #         try:
+    #             assert self.phone is not None and len(self.phone) == 11, "phone must be 11 digits"
+    #             assert self.phone.isdigit(), "phone must be numeric"
+    #             allure.attach(f"phone: {self.phone}", name="phone", attachment_type=allure.attachment_type.TEXT)
+    #             print("Phone:", self.phone)
+    #         except AssertionError as e:
+    #             pytest.fail(f"phone validation failed: {e}")
 
     @allure.title("Send verification code")
     @allure.severity(allure.severity_level.CRITICAL)

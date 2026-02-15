@@ -6,7 +6,7 @@ import requests
 
 from common.conftest import test_login1
 from common.conftest import test_login2
-
+from common.conftest import test_login3
 
 
 def pytest_configure(config):

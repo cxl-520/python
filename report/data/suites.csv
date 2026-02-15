@@ -1,0 +1,120 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"测试手机验证码发送接口，向指定手机号发送验证码，校验HTTP状态码为200","483","发送手机验证码接口","testcase.test_smoke","2026-02-15","failed","2026-02-15","Test_phone","test_phone","",""
+"
+    ### 获取参赛战队详情列表接口测试
+    **测试场景**：调用/get_teams_player接口获取指定战队的参赛选手详情列表
+    **预期结果**：
+    1. HTTP响应状态码为200
+    2. 响应返回正确的战队选手数据
+    **前置条件**：
+    - 需携带有效的PHPSESSID和token
+    - team_id=870和carnival_id=767为有效参数
+    ","89","获取参赛战队详情列表","testcase.test_api","2026-02-15","passed","2026-02-15","Test_player","test_player","",""
+"测试成绩排名接口，校验HTTP状态码为200","68","成绩排名接口","testcase.test_smoke","2026-02-15","passed","2026-02-15","TestGrade","test_grade","",""
+"验证空账号+非空密码登录时，能弹出账号必填的预期提示文案","436","账号为空-密码非空：校验必填提示","testcase.test_ui","2026-02-15","passed","2026-02-15","TestLogin","test_login","",""
+"测试获取赛程列表接口，校验HTTP状态码为200","58","获取赛程列表接口","testcase.test_smoke","2026-02-15","passed","2026-02-15","TestGrade","test_grade","",""
+"测试获取参赛战队详情列表接口，携带指定cookies和参数发起GET请求","60","获取参赛战队详情列表接口","testcase.test_smoke","2026-02-15","passed","2026-02-15","Test_idrcspi","test_idrcspi","",""
+"测试手机验证码校验接口，使用指定验证码校验手机号，打印响应结果","90","校验手机验证码接口","testcase.test_smoke","2026-02-15","passed","2026-02-15","Test_phone","test_phone","",""
+"测试手机验证码校验接口，使用指定手机号和验证码","47","手机验证码校验接口","testcase.test_smoke","2026-02-15","passed","2026-02-15","TestGrade","test_grade","",""
+"测试获取地址接口，发起GET请求并打印响应/COOKIES信息","333","获取地址接口（带打印）","testcase.test_smoke","2026-02-15","passed","2026-02-15","TestVote","test_vote_api","",""
+"测试图片上传接口，上传指定JPG图片","80","上传图片接口","testcase.test_smoke","2026-02-15","passed","2026-02-15","TestGrade","test_grade","",""
+"
+        获取参赛战队详情列表
+        ","73","test_get_teams_player","testcase.test_smoke","2026-02-15","passed","2026-02-15","TestIdrcApi","test_idrcspi_two","",""
+"
+    ### 测试场景：
+    1. 复用登录夹具的driver
+    2. 读取Excel账号密码 → 输入账号密码 → 截图验证码并识别 → 填充验证码 → 点击登录
+    ### 预期结果：
+    验证码识别并填充，登录按钮点击成功
+    ","4615","后台登录-验证码识别自动填充","testcase.test_ui","2026-02-15","failed","2026-02-15","TestExcel","test_excel","",""
+"","29","test_yaml","testcase.test_yaml","2026-02-15","passed","2026-02-15","","test_yaml","",""
+"测试读取Excel中的账号密码数据，打印并验证数据读取正常","1","读取Excel测试数据","testcase.test_ui","2026-02-15","passed","2026-02-15","TestExcel","test_excel","",""
+"验证正确账号密码登录后，点击退出登录能返回登录页，通过URL断言校验退出结果","5788","正常账号密码登录-推出登录校验","testcase.test_ui","2026-02-15","passed","2026-02-15","TestLogin","test_login","",""
+"验证非空账号+空密码登录时，能弹出密码必填的预期提示文案","466","账号非空-密码为空：校验必填提示","testcase.test_ui","2026-02-15","passed","2026-02-15","TestLogin","test_login","",""
+"
+    ### 测试场景：
+    1. 复用登录夹具的driver
+    2. 读取Excel账号密码 → 输入账号密码 → 截图验证码并识别 → 填充验证码 → 点击登录
+    ### 预期结果：
+    验证码识别并填充，登录按钮点击成功
+    ","4636","后台登录-验证码识别自动填充","testcase.test_ui","2026-02-15","failed","2026-02-15","TestExcel","test_excel","",""
+"","1","test_logging_demo","testcase.test_smoke","2026-02-15","passed","2026-02-15","","test_logging_demo","",""
+"
+    ### 测试场景：
+    1. 复用登录夹具的driver
+    2. 读取Excel账号密码 → 输入账号密码 → 截图验证码并识别 → 填充验证码 → 点击登录
+    ### 预期结果：
+    验证码识别并填充，登录按钮点击成功
+    ","4666","后台登录-验证码识别自动填充","testcase.test_ui","2026-02-15","failed","2026-02-15","TestExcel","test_excel","",""
+"测试读取Excel中的账号密码数据，打印并验证数据读取正常","1","读取Excel测试数据","testcase.test_ui","2026-02-15","passed","2026-02-15","TestExcel","test_excel","",""
+"测试读取Excel中的账号密码数据，打印并验证数据读取正常","0","读取Excel测试数据","testcase.test_ui","2026-02-15","passed","2026-02-15","TestExcel","test_excel","",""
+"
+    ### 测试场景：
+    1. 复用登录夹具的driver
+    2. 登录电商平台 → 按名称倒序筛选商品 → 加入购物车 → 进入结算页 → 取消结算
+    ### 预期结果：
+    所有页面操作正常执行，无元素定位失败
+    ","11501","商品购买流程-登录后筛选商品并取消结算","testcase.test_ui","2026-02-15","passed","2026-02-15","TestBro","test_bro","",""
+"
+    ### 测试场景：
+    1. 复用登录夹具的driver
+    2. 读取Excel账号密码 → 输入账号密码 → 截图验证码并识别 → 填充验证码 → 点击登录
+    ### 预期结果：
+    验证码识别并填充，登录按钮点击成功
+    ","4621","后台登录-验证码识别自动填充","testcase.test_ui","2026-02-15","failed","2026-02-15","TestExcel","test_excel","",""
+"
+    ### 测试场景：
+    1. 复用登录夹具的driver
+    2. 读取Excel账号密码 → 输入账号密码 → 截图验证码并识别 → 填充验证码 → 点击登录
+    ### 预期结果：
+    验证码识别并填充，登录按钮点击成功
+    ","4602","后台登录-验证码识别自动填充","testcase.test_ui","2026-02-15","failed","2026-02-15","TestExcel","test_excel","",""
+"验证正确账号+错误密码登录时，能弹出预期的错误提示文案","502","正确账号-错误密码：校验错误提示","testcase.test_ui","2026-02-15","passed","2026-02-15","TestLogin","test_login","",""
+"
+    ### 获取赛程类别接口测试
+    **测试场景**：调用/fixture/get_fixture接口获取赛程类别列表
+    **预期结果**：
+    1. HTTP响应状态码为200
+    2. 响应msg字段为""获取成功""
+    3. 响应包含有效的赛程类别数据
+    **前置条件**：无（carnival_id和match_time为空时返回全量数据）
+    ","58","获取赛程类别","testcase.test_api","2026-02-15","passed","2026-02-15","Test_player","test_player","",""
+"
+    ### 获取人气选手接口测试
+    **测试场景**：调用/participants/get_hotplayer接口按投票数排序获取人气选手列表
+    **预期结果**：
+    1. HTTP响应状态码为200
+    2. 业务码code=0、msg=""获取成功""
+    3. 响应包含data字段且为列表类型
+    **前置条件**：无（search为空时返回全量选手）
+    ","66","获取人气选手","testcase.test_api","2026-02-15","passed","2026-02-15","Test_player","test_player","",""
+"测试读取Excel中的账号密码数据，打印并验证数据读取正常","1","读取Excel测试数据","testcase.test_ui","2026-02-15","passed","2026-02-15","TestExcel","test_excel","",""
+"验证错误账号+正确密码登录时，能弹出预期的错误提示文案","408","错误账号-密码正确：校验错误提示","testcase.test_ui","2026-02-15","passed","2026-02-15","TestLogin","test_login","",""
+"","7","test_logging_demo2","testcase.test_smoke","2026-02-15","passed","2026-02-15","","test_logging_demo","",""
+"","19697","test_shop","testcase.test_ui","2026-02-15","failed","2026-02-15","TestShop","test_shop","",""
+"
+    ### 成绩排名接口测试
+    **测试场景**：调用/grades/get_grades_list接口获取指定赛事的成绩排名列表
+    **预期结果**：
+    1. HTTP响应状态码为200
+    2. 响应返回正确的成绩排名数据
+    **前置条件**：race_id=783为有效赛事ID
+    ","83","成绩排名","testcase.test_api","2026-02-15","passed","2026-02-15","Test_player","test_player","",""
+"
+    ### 图片上传接口测试
+    **测试场景**：调用/ajax/upload接口上传合法JPG格式图片
+    **预期结果**：
+    1. HTTP响应状态码为200
+    2. 业务码为成功状态（如code=0/200，根据实际接口调整）
+    3. 响应返回图片URL（如url/file_path字段）
+    **前置条件**：
+    - 测试图片文件存在且为JPG格式
+    - 文件路径正确可访问
+    ","94","上传图片接口","testcase.test_api","2026-02-15","passed","2026-02-15","Test_api","test_posts","",""
+"测试获取投票列表接口，发起GET请求并打印响应信息","162","获取投票列表接口","testcase.test_smoke","2026-02-15","passed","2026-02-15","TestVote","test_vote_api","",""
+"","58","Verify code","testcase.test_api","2026-02-15","failed","2026-02-15","TestPhone","test_phone","",""
+"测试获取地址接口，发起GET请求（无打印输出）","303","获取地址接口（无打印）","testcase.test_smoke","2026-02-15","passed","2026-02-15","TestVote","test_vote_api","",""
+"测试新增俱乐部接口，发起POST请求并打印响应信息","406","新增俱乐部接口","testcase.test_smoke","2026-02-15","passed","2026-02-15","TestVote","test_vote_api","",""
+"","619","Send verification code","testcase.test_api","2026-02-15","skipped","2026-02-15","TestPhone","test_phone","",""
+"测试读取Excel中的账号密码数据，打印并验证数据读取正常","2","读取Excel测试数据","testcase.test_ui","2026-02-15","passed","2026-02-15","TestExcel","test_excel","",""
